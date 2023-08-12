@@ -89,5 +89,3 @@ Footnotes:
 |8th|"New" 2DS-XL|New 3DS|n2DSXL|Yes|The "New" 2DS-XL (n2DSXL) sandwiches the "New" 3DS hardware, the "New 3DS-XL size (roughly) and clamshell folding, and the "original" 2DS lack-of-3D and price-savings-intent into some very good-looking hardware. All 3DS flashcart ideologies apply.|
 
 **Coming up:** Two more charts: one for optical drive equivalents; one for systems that should be modded instead of flashcarted-or-optical-drive-equivalized (as, they don't exist).
-
-{% include_relative include/disclaimer.md %}

@@ -19,5 +19,3 @@ Again, these are for-example (there are others) colloquial indicators (or "nickn
 ## A note on SECAM
 
 SECAM was that kid in school that got the N-Gage because his parents didn't get it or because they were Cold War dictators; in other words, they had something to say they had something, but they missed out on so much more. To knowledge, the only SECAM console that ever existed was the SECAM Atari 2600 (which is kind of cool-looking); further down that rabbit hole, it would seem there very tiny fraction of the 2600 Library that was compiled and minted for SECAM. Same rules as above (NTSC vs PAL) should apply, should you find yourself so lucky.
-
-{% include_relative include/disclaimer.md %}

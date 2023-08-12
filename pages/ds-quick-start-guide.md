@@ -188,5 +188,3 @@ See [3ds.hacks.guide](https://3ds.hacks.guide) for how to install CFW on your 3D
 
 {% assign tabs = tab-dsi | concat: tab-3ds %}
 {% include tabs.html index=1 tabs=tabs %}
-
-{% include_relative include/disclaimer.md %}

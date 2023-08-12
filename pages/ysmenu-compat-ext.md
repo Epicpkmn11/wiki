@@ -116,5 +116,3 @@ Please see [RetroGameFan Updates / Releases](https://gbatemp.net/threads/267243/
     - Cheat menu can display unreadable text with long cheat names
     - Some cheats codes are broken
     - Also, see in-depth explanation of this kernel's cons [here](https://i.imgur.com/V1W2GGQ.png).
-
-{% include_relative include/disclaimer.md %}

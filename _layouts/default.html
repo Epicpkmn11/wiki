@@ -1,36 +1,12 @@
 ---
-layout: compress
+layout: base
 ---
 
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}" dir="ltr">
-<head>
-	{% include head.html %}
-</head>
-<body>
-	<div class="content">
-		{% include nav.html %}
+{{ content }}
 
-		<main>
-			<div class="container-fluid">
-				<div class="row pt-5">
-					<div class="col-sm-2"></div>
-					<div class="col-sm-8">
-						{% assign content = content | replace: "<table>", '<div class="table-responsive"><table class="table">' | replace: "</table>", "</table></div>" %}
-						{% include anchor_headings.html html=content anchorBody="<small>#</small>" anchorClass="header-anchor" %}
-					</div>
-				</div>
-			</div>
-		</main>
-	</div>
+<hr>
 
-	{% include footer.html %}
+<h4>Disclaimer</h4>
 
-	{% if content contains "tab-container" %}
-		<script src="/assets/js/tabs.js"></script>
-	{% endif %}
-
-	<script src="/assets/js/rescript.js"></script>
-	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
-</body>
-</html>
+<p>The information contained in this post is based on discussions, pages and forums around the web. flashcarts.net, its members, moderators, and contributors do not claim to own any or all of these flashcarts; nor vouch they will never harm your system; nor guarantee any suggested price; nor warrant completeness of lists at any given point, nor speak on behalf-of any retailers, seller or vendor. In other words, use this for educational purposes and at your own risk.</p>
+<p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</p>

@@ -18,5 +18,3 @@ The non-premium option with a few shortcomings. It has a notable battery drain a
 
 ### SuperCard SD
 The cheapest and worst option. It requires a custom rom patcher specific for this cart that reportedly doesn't work on newer windows versions. Only supports 2GB SD cards. However, it seems to be the only readily available cart to work in conjunction with TWiLight Menu++ on DS Phat/Lite for loading GBA games natively on those systems via Slot-1. Costs anywhere between $10-20 USD.
-
-{% include_relative include/disclaimer.md %}

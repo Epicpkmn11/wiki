@@ -1,6 +1,6 @@
 ---
 title: Flashcarts Wiki
-permalink: /index.html
+layout: base
 ---
 
 Hello!

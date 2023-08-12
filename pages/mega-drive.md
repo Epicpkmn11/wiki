@@ -15,5 +15,3 @@ Notes:
 * Sega Master System game (and by extension, Game Gear and SG-1000?) can be run off of this Flashcart.
 * Some NTSC Nintendo Entertainment System games can be emulated.
 * MSU Mega Drive/Genesis games are a thing. And this is the only flashcart that can play them.
-
-{% include_relative include/disclaimer.md %}

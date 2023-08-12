@@ -37,5 +37,3 @@ Well, here's another handy-less-dandy-but-still-dandy chart:
 |Shipping|Krikzz|Everdrive|GBA X5|via the "Goomba.gba" emulator: Game Boy-SGB-Enhanced, yes. Game Boy Color-SGB-Ehnhanced, no (or, undetermined as to how).|
 |Shipping|Krikzz|Everdrive|GB Xx crammed into a GameCube Game Boy Player|Game Boy-SGB-Enhanced, yes. Game Boy Color-SGB-Ehnhanced, no (or, undetermined as to how).|
 |Shipping|Krikzz|Everdrive|GBA X5 crammed into a GameCube Game Boy Player|via the "Goomba.gba" emulator: Game Boy-SGB-Enhanced, yes. Game Boy Color-SGB-Ehnhanced, no (or, undetermined as to how).|
-
-{% include_relative include/disclaimer.md %}

@@ -14,5 +14,3 @@ Provided are links to known Pokémon Mini flashcarts.
 |Legacy|[JustBurn's](https://www.pokemon-mini.net/flash-carts/)|FlashCart||—|
 |Legacy|[DarkFader's](https://www.pokemon-mini.net/flash-carts/)|FlashCart||—|
 |Legacy|[Mr Blinky's](https://www.pokemon-mini.net/flash-carts/)|Poke USB Rev 1.2||—|
-
-{% include_relative include/disclaimer.md %}

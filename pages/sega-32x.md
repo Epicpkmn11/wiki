@@ -15,5 +15,3 @@ Sega 32X flashcarts do not exist, presently. However, if you do own a 32X Add-on
 |Legacy|Krikzz|Mega Everdrive|[v1](https://krikzz.com/our-products/legacy/mega-everdrive-v1.html)||—|
 
 Note: none of these, save the [Pro](https://krikzz.com/our-products/cartridges/mega-everdrive-pro.html) support the Mega-CD/Sega CD. Despite this single model, none of the current or past models support the six (6) 32X-CD titles.
-
-{% include_relative include/disclaimer.md %}
